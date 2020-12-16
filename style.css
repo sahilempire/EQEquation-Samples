@@ -43,7 +43,11 @@ h1{
     border: 2px solid #f67c92;
     font-weight: bold;
     cursor: pointer;
-
+}
+.common-btn:hover
+{
+    background: #f67c92;
+    transition: ease-in-out 0.4s;
 }
 p{
     font-size: 15px;
